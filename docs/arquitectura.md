@@ -27,4 +27,4 @@ El sistema se divide en:
 - Historial de alquileres
 
 ## Diagrama de arquitectura
-![Arquitectura del sistema](img/arquitectura.png)
+![Arquitectura del sistema](img/Arquitectura.png)
